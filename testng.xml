@@ -1,0 +1,10 @@
+<suite name="E-Commerce Suite">
+    <test name="Functional Tests">
+        <classes>
+            <class name="testcases.LoginTest"/>
+            <class name="testcases.AddToCartTest"/>
+            <class name="testcases.CheckoutTest"/>
+            <class name="testcases.LogoutTest"/>
+        </classes>
+    </test>
+</suite>
