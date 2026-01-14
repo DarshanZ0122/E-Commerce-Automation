@@ -37,6 +37,7 @@ This project is designed to demonstrate **real-world automation testing practice
 - **CI/CD:** Jenkins  
 - **Version Control:** Git & GitHub  
 
+## 🗂️ Project Structure  
 ---Ecommerce-Automation-Testing/
 │
 ├── src/
@@ -144,6 +145,6 @@ No real payment gateways or production credentials are used.
 Darshan Zore
 QA / Automation Test Engineer
 
-## 🗂️ Project Structure
+
 
 
