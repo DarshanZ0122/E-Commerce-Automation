@@ -99,5 +99,51 @@ This project is designed to demonstrate **real-world automation testing practice
 ## 🧪 Test Execution
 
 ### ▶️ Run via Maven
-```bash
+##mvn test
+▶️ Run via TestNG
+
+Execute using testng.xml
+
+▶️ Run via Jenkins
+
+Jenkins pipeline configured using Jenkinsfile.groovy
+
+Automated execution with report generation
+
+Suitable for CI/CD and regression runs
+
+🔄 CI/CD Integration (Jenkins)
+
+Jenkins pipeline triggers automation execution
+
+Maven-based build and test execution
+
+Extent Reports generated as build artifacts
+
+Supports manual and scheduled runs
+
+🧠 Key Highlights
+
+Modular and scalable automation framework
+
+Industry-standard reporting with Extent Reports
+
+Screenshot capture on failures
+
+CI/CD ready using Jenkins
+
+Resume and interview friendly project
+
+⚠️ Disclaimer
+
+This is a practice automation project created for learning and portfolio purposes only.
+No real payment gateways or production credentials are used.
+
+👤 Author
+
+Darshan Zore
+QA / Automation Test Engineer
+
+## 🗂️ Project Structure
+
 
