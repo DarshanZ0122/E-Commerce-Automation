@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Automation Testing Framework
-
+End-to-end Automation testing practice project for an E-commerce web application
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat)
